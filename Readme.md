@@ -23,7 +23,7 @@ Weather iPhone app is developed using Swift in MVVM architecture with Simple UI.
 
 **Flow :**
 
-|![flow](Screenshots/Screenshots/WeatherAPP.gif)|
+|![flow](Screenshots/WeatherAPP.gif)|
 |:----------------------------:|
 |Flow| 
 
