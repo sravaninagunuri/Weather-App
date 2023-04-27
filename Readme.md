@@ -3,6 +3,7 @@
 ## Description
 
 Weather iPhone app is developed using Swift in MVVM architecture with Simple UI.
+United tested
 
 ## Features
 
